@@ -1,0 +1,1 @@
+web: gunicorn inforAPI.wsgi:application --log-file -

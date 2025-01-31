@@ -37,4 +37,8 @@ Response Example (200 OK)
     "email": "okonkwoemmanuel348@gmail.com",
     "current_datetime": "2025-01-29T11:32:48.792889Z",
     "github_url": "https://github.com/okonkwo348"
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> b343d64 (Initial commit)
