@@ -18,4 +18,4 @@ def get_inform(request):
         "current_datetime":current_datetime,
         "github_url":github_url
     }
-    return Response(msg)
+    return JsonResponse(msg)
